@@ -1,0 +1,11 @@
+{
+  "name": "properties-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for .properties files",
+  "main": "index.js",
+  "author": "Jordan Santell <jordan@jsantell.com>",
+  "license": "MIT",
+  "dependencies": {
+    "properties": "^1.2.1"
+  }
+}
